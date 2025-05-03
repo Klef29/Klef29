@@ -4,21 +4,19 @@
 <h3 align="center">I'm a passionate Data Analyst and Programmer from Ghana.</h3>
 
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
+🌱 I’m currently learning JavaScript frameworks and responsive web design
 
+🤝 I’m looking to collaborate on front-end web projects and open-source design systems
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+📫 How to reach me: albertasare212@gmail.com
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+💡 Fun fact: I enjoy turning creative ideas into sleek, interactive websites!🙋‍♂️ About Me
 
-- 📫 How to reach me **albertasare212@gmail.com**
-
-- ⚡ Fun fact **I like crypto GEMS!! :)**
 
 ## 🚀 Languages:
 
 <p align="left"> 
-    <a href="https://www.cplusplus.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a
     <a href="https://www.oracle.com" target="_blank">  <img src="https://img.icons8.com/color/50/000000/sql.png"/> </a
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>  
